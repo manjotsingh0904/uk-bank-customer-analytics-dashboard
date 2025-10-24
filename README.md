@@ -1,4 +1,4 @@
-# 🇬🇧 Unlocking the Secrets of UK Customers: A Tableau Deep Dive  
+# Unlocking the Secrets of UK Customers: A Tableau Deep Dive  
 **Exploring Customer Demographics and Market Share Across the United Kingdom**
 
 ---
