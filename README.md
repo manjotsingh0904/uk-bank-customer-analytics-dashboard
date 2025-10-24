@@ -35,7 +35,7 @@ The dashboard includes **filters, colour-coded maps, and dynamic elements**, ena
 ---
 
 ## 📸 Dashboard Preview  
-*(Upload your Tableau dashboard image and replace the path below once added)*  
+
 
 ![UK Customer Dashboard Preview](UK-Bank-Customer-Dashboard.png)
 
